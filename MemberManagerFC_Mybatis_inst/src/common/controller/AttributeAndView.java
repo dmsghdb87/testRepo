@@ -3,6 +3,7 @@ package common.controller;
 import java.util.HashMap;
 import java.util.Map;
 
+//ddd
 /*
  * Controller로직을 처리할 Controller들이 FrontController에서 전달할 값을 저장할 클래스
  *  - View로 이동하기 위해 필요한 정보를 저장한다.
